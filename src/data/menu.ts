@@ -32,7 +32,7 @@ export const menuData: MenuItem[] = [
         name: "숙성목살",
         price: 4990,
         unit: "100g",
-        image: "/images/menu/숙성목살.png",
+        image: "/images/menu/aged-moksal.png",
         desc: "지방이 적고 담백하며 육즙이 풍부한 스테이크형 목살",
         category: "main",
         tags: ["추천"]
@@ -109,7 +109,7 @@ export const menuData: MenuItem[] = [
         name: "B세트(3~4인)",
         price: 37990,
         unit: "800g",
-        image: "/images/menu/b세트.png",
+        image: "/images/menu/set-b.png",
         desc: "삼겹, 목살, 오겹, 항정, 가브리(800g)",
         category: "set",
         tags: ["BEST"]
@@ -140,7 +140,7 @@ export const menuData: MenuItem[] = [
         name: "된장찌개",
         price: 4000,
         unit: "1뚝배기",
-        image: "/images/menu/된장찌개.png",
+        image: "/images/menu/doenjang-stew.png",
         desc: "꽃게와 해물이 들어가 시원하고 구수한 맛",
         category: "side"
     },
