@@ -1,5 +1,5 @@
 import { locationData } from "@/data/location";
-import { Phone, MapPin, Clock } from "lucide-react";
+import { Phone, MapPin, Clock, Car } from "lucide-react";
 
 export default function LocationPage() {
     return (
@@ -24,7 +24,7 @@ export default function LocationPage() {
                             loading="lazy"
                             referrerPolicy="no-referrer-when-downgrade"
                             className="absolute inset-0"
-                            title="맛있는고기에솜씨를더하다 위치"
+                            title="맛있는고기에솜씨를더하다 소답중동점 위치"
                         ></iframe>
                     </div>
 
@@ -85,7 +85,9 @@ export default function LocationPage() {
 
                 {/* Parking Info */}
                 <div className="mt-12 p-8 bg-brand-gray/30 border border-brand-gray rounded-lg text-center">
-                    <h3 className="text-xl font-bold text-brand-white mb-2">🚗 주차 안내</h3>
+                    <h3 className="flex items-center justify-center gap-2 text-xl font-bold text-brand-white mb-2">
+                        <Car className="text-brand-gold" /> 주차 안내
+                    </h3>
                     <p className="text-gray-300">
                         {locationData.parkingInfo}<br />
                         <span className="text-sm text-gray-500">(계산 시 주차 등록을 꼭 요청해주세요)</span>

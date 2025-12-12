@@ -1,6 +1,6 @@
 export const locationData = {
   // 구글 지도 등록 명칭 및 주소
-  name: "맛있는고기에솜씨를더하다 창원소답점",
+  name: "맛있는고기에솜씨를더하다 소답중동점",
   address: "경상남도 창원시 의창구 의창대로 272-1", // 구글맵 기준
   addressDetail: "1층 (소답동)",
   zipCode: "51196",

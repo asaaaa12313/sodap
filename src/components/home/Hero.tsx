@@ -8,7 +8,7 @@ export default function Hero() {
             <div className="absolute inset-0 z-0">
                 <Image
                     src="/images/hero/hero-bg.jpg"
-                    alt="맛있는고기에솜씨를더하다 매장 전경"
+                    alt="맛있는고기에솜씨를더하다 소답중동점 매장 전경"
                     fill
                     className="object-cover brightness-50"
                     priority
