@@ -76,8 +76,8 @@ export default function LocationSection() {
                                 <Clock className="text-brand-gold" /> 영업 시간
                             </h3>
                             <ul className="text-gray-300 space-y-2">
-                                <li><span className="inline-block w-20 text-gray-500">평일</span> 16:00 - 23:00</li>
-                                <li><span className="inline-block w-20 text-gray-500">주말/공휴일</span> 11:30 - 23:00</li>
+                                <li><span className="inline-block w-20 text-gray-500">월~금</span> 16:00 - 24:00</li>
+                                <li><span className="inline-block w-20 text-gray-500">토~일</span> 11:30 - 24:00</li>
                                 <li><span className="text-brand-gold text-sm pt-2">* 라스트오더: 마감 30분 전</span></li>
                             </ul>
                         </div>
