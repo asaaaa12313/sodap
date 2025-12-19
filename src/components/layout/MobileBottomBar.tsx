@@ -22,7 +22,7 @@ export default function MobileBottomBar() {
             </Link>
 
             <Link
-                href="https://map.naver.com/p/search/%EB%A7%9B%EC%9E%88%EB%8A%94%EA%B3%A0%EA%B8%B0%EC%97%90%EC%86%9C%EC%94%A8%EB%A5%BC%EB%8D%94%ED%95%98%EB%8B%A4%20%EC%B0%BD%EC%9B%90%EC%86%8C%EB%8B%B5%EC%A0%90/place/1066036737"
+                href="https://m.place.naver.com/restaurant/1282644424/booking?entry=plt"
                 target="_blank"
                 className="flex flex-col items-center justify-center gap-1 active:bg-brand-gray transition-colors bg-brand-gold/10"
             >
