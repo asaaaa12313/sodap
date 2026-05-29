@@ -193,7 +193,7 @@ export const menuData: MenuItem[] = [
     {
         id: "mushroom",
         name: "모듬버섯",
-        price: 2990,
+        price: 1990,
         unit: "1접시",
         image: "/images/menu/mushroom.png",
         desc: "새송이, 팽이버섯",

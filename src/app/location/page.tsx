@@ -39,7 +39,7 @@ export default function LocationPage() {
 
                             <div className="flex gap-4 mt-6">
                                 <a
-                                    href="https://map.naver.com/p/search/%EB%A7%9B%EC%9E%88%EB%8A%94%EA%B3%A0%EA%B8%B0%EC%97%90%EC%86%9C%EC%94%A8%EB%A5%BC%EB%8D%94%ED%95%98%EB%8B%A4%20%EC%B0%BD%EC%9B%90%EC%86%8C%EB%8B%B5%EC%A0%90/place/1066036737"
+                                    href="https://map.naver.com/p/entry/place/1282644424"
                                     target="_blank"
                                     className="flex-1 py-3 bg-[#03C75A] text-white text-center font-bold rounded hover:opacity-90 transition-opacity"
                                 >
@@ -77,7 +77,7 @@ export default function LocationPage() {
                             <ul className="text-gray-300 space-y-2">
                                 <li><span className="inline-block w-20 text-gray-500">월~금</span> 16:00 - 24:00</li>
                                 <li><span className="inline-block w-20 text-gray-500">토~일</span> 11:30 - 24:00</li>
-                                <li className="text-brand-gold text-sm pt-2">* 라스트오더: 마감 30분 전</li>
+                                <li className="text-brand-gold text-sm pt-2">* 라스트오더: 23:00</li>
                             </ul>
                         </div>
                     </div>
